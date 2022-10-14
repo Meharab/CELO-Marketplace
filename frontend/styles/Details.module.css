@@ -21,7 +21,7 @@
     padding: 1rem;
     width: 100%;
     text-align: center;
-    background-color: lightblue;
+    background-color: rgb(41, 103, 185);
     border-radius: 1rem;
   }
   
@@ -45,7 +45,7 @@
     margin-right: 1rem;
     padding: 0.5rem;
     border-radius: 0.5rem;
-    border: 1px solid #cccccc;
+    border: 1px solid #5e0c0c;
   }
   
   .btn {

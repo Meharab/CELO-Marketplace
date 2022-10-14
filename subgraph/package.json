@@ -1,10 +1,10 @@
 {
-  "name": "CELO-Marketplace",
+  "name": "celo-marketplace",
   "license": "UNLICENSED",
   "scripts": {
     "codegen": "graph codegen",
     "build": "graph build",
-    "deploy": "graph deploy --node https://api.thegraph.com/deploy/ Meharab/CELO-Marketplace",
+    "deploy": "graph deploy --node https://api.thegraph.com/deploy/ meharab/celo-marketplace",
     "create-local": "graph create --node http://localhost:8020/ Meharab/CELO-Marketplace",
     "remove-local": "graph remove --node http://localhost:8020/ Meharab/CELO-Marketplace",
     "deploy-local": "graph deploy --node http://localhost:8020/ --ipfs http://localhost:5001 Meharab/CELO-Marketplace",
